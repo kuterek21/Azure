@@ -1,0 +1,1 @@
+New-AzResourceGroup -Name AZ500LAB02 -Location 'East US'
