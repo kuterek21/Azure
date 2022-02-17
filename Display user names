@@ -1,1 +1,7 @@
+Powershell
 Get-AzureADUser
+
+
+Azure CLI / BASH
+
+az ad user list --output table
