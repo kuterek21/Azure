@@ -1,0 +1,11 @@
+The Azure Az PowerShell module This extra module must be installed to add the Azure-specific commands to PowerShell.
+-------------------------------------------------------------------------------------------------------------------
+
+- how to check the version of PowerShell installed
+    $PSVersionTable.PSVersion
+    pwsh -ver
+    
+winget install --id Microsoft.Powershell --source winget
+winget install --id Microsoft.Powershell.Preview --source winget
+-------------------------------------------------------------------------------------------------------------------
+
